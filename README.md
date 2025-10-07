@@ -3,3 +3,5 @@ This is an assignement project for the Artificial Intelligence module
 I used the following datasets for this projet:
 - The Japanese Female Facial Expression (JAFFE) Dataset: https://data.niaid.nih.gov/resources?id=zenodo_3451523
 - Cohn-Kanade Dataset (CK+): https://www.kaggle.com/datasets/davilsena/ckdataset
+
+Used the CV2 cascade from: https://github.com/opencv/opencv/tree/master/data/haarcascades
