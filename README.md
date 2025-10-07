@@ -5,3 +5,4 @@ I used the following datasets for this projet:
 - Cohn-Kanade Dataset (CK+): https://www.kaggle.com/datasets/davilsena/ckdataset
 
 Used the CV2 cascade from: https://github.com/opencv/opencv/tree/master/data/haarcascades
+Documentation about face detection from this webpage: https://www.geeksforgeeks.org/python/face-detection-using-cascade-classifier-using-opencv-python/
