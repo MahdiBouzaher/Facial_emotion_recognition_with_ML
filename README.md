@@ -9,3 +9,6 @@ Face detection:
 - Documentation about face detection from this webpage: https://www.geeksforgeeks.org/python/face-detection-using-cascade-classifier-using-opencv-python/
 
 For the dataset splitting I used: https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html
+
+To try diffrent hyperparameters:
+https://scikit-learn.org/stable/modules/grid_search.html
